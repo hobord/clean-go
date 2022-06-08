@@ -1,5 +1,5 @@
 Go app structure
---_--------------
+--
 
 ```
 /app              // gloal application level singletons like log, build infos etc..
