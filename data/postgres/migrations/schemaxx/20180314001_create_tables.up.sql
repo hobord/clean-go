@@ -1,0 +1,6 @@
+CREATE TABLE IF NOT EXISTS table_name (
+  id INTEGER NOT NULL,
+  is_active bool NOT NULL DEFAULT TRUE,
+  PRIMARY KEY (id) 
+);
+
