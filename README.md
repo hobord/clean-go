@@ -2,7 +2,7 @@ Go app structure
 --
 
 ```
-/app                     // gloal application level singletons like log, build infos, config etc..
+/app                     // global application level singletons like log, build infos, config etc..
 /cmd                     // commandline application entry point, app starts here
 /data                    // repositories implementations by infrastructures
   /firebase              // firebase implementations of repositories
